@@ -113,7 +113,7 @@
         {
             "slug": "09-Calculated-property",
             "title": "09-Calculated-property",
-            "done": false,
+            "done": true,
             "path": "exercises/09-Calculated-property",
             "translations": [
                 "us"
