@@ -43,7 +43,7 @@
         {
             "slug": "02-instance-of-datetime",
             "title": "02-instance-of-datetime",
-            "done": false,
+            "done": true,
             "path": "exercises/02-instance-of-datetime",
             "translations": [
                 "us"
