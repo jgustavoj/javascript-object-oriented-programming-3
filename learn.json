@@ -53,7 +53,7 @@
         {
             "slug": "03-Create-new-class",
             "title": "03-Create-new-class",
-            "done": false,
+            "done": true,
             "path": "exercises/03-Create-new-class",
             "translations": [
                 "us"
