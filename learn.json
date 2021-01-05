@@ -63,7 +63,7 @@
         {
             "slug": "04-Define-your-first-properties",
             "title": "04-Define-your-first-properties",
-            "done": false,
+            "done": true,
             "path": "exercises/04-Define-your-first-properties",
             "translations": [
                 "us"
